@@ -1,0 +1,14 @@
+C:\Users\richa\decisaoIf_C#\bin\Debug\net8.0\decisaoIf_C#.exe
+C:\Users\richa\decisaoIf_C#\bin\Debug\net8.0\decisaoIf_C#.deps.json
+C:\Users\richa\decisaoIf_C#\bin\Debug\net8.0\decisaoIf_C#.runtimeconfig.json
+C:\Users\richa\decisaoIf_C#\bin\Debug\net8.0\decisaoIf_C#.dll
+C:\Users\richa\decisaoIf_C#\bin\Debug\net8.0\decisaoIf_C#.pdb
+C:\Users\richa\decisaoIf_C#\obj\Debug\net8.0\decisaoIf_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\decisaoIf_C#\obj\Debug\net8.0\decisaoIf_C#.AssemblyInfoInputs.cache
+C:\Users\richa\decisaoIf_C#\obj\Debug\net8.0\decisaoIf_C#.AssemblyInfo.cs
+C:\Users\richa\decisaoIf_C#\obj\Debug\net8.0\decisaoIf_C#.csproj.CoreCompileInputs.cache
+C:\Users\richa\decisaoIf_C#\obj\Debug\net8.0\decisaoIf_C#.dll
+C:\Users\richa\decisaoIf_C#\obj\Debug\net8.0\refint\decisaoIf_C#.dll
+C:\Users\richa\decisaoIf_C#\obj\Debug\net8.0\decisaoIf_C#.pdb
+C:\Users\richa\decisaoIf_C#\obj\Debug\net8.0\decisaoIf_C#.genruntimeconfig.cache
+C:\Users\richa\decisaoIf_C#\obj\Debug\net8.0\ref\decisaoIf_C#.dll
